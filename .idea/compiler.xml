@@ -6,6 +6,9 @@
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[905]按奇偶排序数组.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[7]整数反转.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[896]单调数列.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[908]最小差值 I.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[42]接雨水.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[914]卡牌分组.java" />
     </excludeFromCompile>
   </component>
 </project>
