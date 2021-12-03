@@ -30,12 +30,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[114]二叉树展开为链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[114]二叉树展开为链表.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[114]二叉树展开为链表.java" />
+              <option name="questionId" value="114" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[1195]交替打印字符串.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[1195]交替打印字符串.md" />
               <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[1195]交替打印字符串.java" />
               <option name="questionId" value="1316" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[143]重排链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[143]重排链表.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[143]重排链表.java" />
+              <option name="questionId" value="143" />
             </LeetcodeEditor>
           </value>
         </entry>
