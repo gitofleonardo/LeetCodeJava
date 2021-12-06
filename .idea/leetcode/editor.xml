@@ -66,12 +66,66 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[150]逆波兰表达式求值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[150]逆波兰表达式求值.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[150]逆波兰表达式求值.java" />
+              <option name="questionId" value="150" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[173]二叉搜索树迭代器.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[173]二叉搜索树迭代器.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[173]二叉搜索树迭代器.java" />
+              <option name="questionId" value="173" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[1]两数之和.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[1]两数之和.md" />
               <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[1]两数之和.java" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[20]有效的括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[20]有效的括号.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[20]有效的括号.java" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[224]基本计算器.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[224]基本计算器.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[224]基本计算器.java" />
+              <option name="questionId" value="224" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[227]基本计算器 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[227]基本计算器 II.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[227]基本计算器 II.java" />
+              <option name="questionId" value="227" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[316]去除重复字母.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[316]去除重复字母.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[316]去除重复字母.java" />
+              <option name="questionId" value="316" />
             </LeetcodeEditor>
           </value>
         </entry>

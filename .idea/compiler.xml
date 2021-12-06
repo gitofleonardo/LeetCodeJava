@@ -9,6 +9,10 @@
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[908]最小差值 I.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[42]接雨水.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[914]卡牌分组.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[114]二叉树展开为链表.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[71]简化路径.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[150]逆波兰表达式求值.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[143]重排链表.java" />
     </excludeFromCompile>
   </component>
 </project>
