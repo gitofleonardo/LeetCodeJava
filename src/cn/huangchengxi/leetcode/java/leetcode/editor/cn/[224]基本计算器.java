@@ -1,4 +1,4 @@
-package cn.huangchengxi.leetcode.java.leetcode.editor.cn;//给你一个字符串表达式 s ，请你实现一个基本计算器来计算并返回它的值。
+//给你一个字符串表达式 s ，请你实现一个基本计算器来计算并返回它的值。
 //
 // 
 //
@@ -38,7 +38,7 @@ package cn.huangchengxi.leetcode.java.leetcode.editor.cn;//给你一个字符串
 import java.util.Stack;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+public class Solution {
     private enum Type{
         Number,
         Plus,
