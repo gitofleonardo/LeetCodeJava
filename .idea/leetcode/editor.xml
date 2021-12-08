@@ -84,6 +84,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[193]有效电话号码.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[193]有效电话号码.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[193]有效电话号码.java" />
+              <option name="questionId" value="193" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[1]两数之和.java">
           <value>
             <LeetcodeEditor>
@@ -120,12 +129,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[29]两数相除.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[29]两数相除.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[29]两数相除.java" />
+              <option name="questionId" value="29" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[316]去除重复字母.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[316]去除重复字母.md" />
               <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[316]去除重复字母.java" />
               <option name="questionId" value="316" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[41]缺失的第一个正数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[41]缺失的第一个正数.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[41]缺失的第一个正数.java" />
+              <option name="questionId" value="41" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -225,6 +252,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[922]按奇偶排序数组 II.md" />
               <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[922]按奇偶排序数组 II.java" />
               <option name="questionId" value="958" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[925]长按键入.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/doc/content/[925]长按键入.md" />
+              <option name="path" value="$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[925]长按键入.java" />
+              <option name="questionId" value="961" />
             </LeetcodeEditor>
           </value>
         </entry>
