@@ -51,36 +51,37 @@
 // Related Topics 双指针 字符串 👍 215 👎 0
 
 
+import java.util.Stack;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public boolean isLongPressedName(String name, String typed) {
-        int nameStart = 0;
-        int typeStart = 0;
         if (name.length() > typed.length()){
             return false;
         }
-        while (nameStart < name.length() || typeStart < typed.length()){
-            if (nameStart < name.length()){
-                while (typeStart < typed.length() && name.charAt(nameStart) == typed.charAt(typeStart)){
-                    ++typeStart;
-                }
-                ++nameStart;
-                if (nameStart < name.length() && typeStart < typed.length()){
-                    if (name.charAt(nameStart) != typed.charAt(typeStart)){
-                        return false;
-                    }
-                }else if (nameStart < name.length()){
-                    return false;
-                }
+        char lastTypeChar = (char) -1;
+        int nStart = 0, tStart = 0;
+        while (nStart < name.length()){
+            if (tStart >= typed.length()){
+                return false;
+            }
+            if (name.charAt(nStart) == typed.charAt(tStart)){
+                lastTypeChar = name.charAt(nStart);
+                ++nStart;
+                ++tStart;
             }else{
-                char last = name.charAt(name.length() - 1);
-                while (typeStart < typed.length() && typed.charAt(typeStart) == last){
-                    ++typeStart;
-                }
-                if (typeStart < typed.length()){
+                if (lastTypeChar == typed.charAt(tStart)){
+                    ++tStart;
+                }else{
                     return false;
                 }
             }
+        }
+        while (tStart < typed.length()){
+            if (typed.charAt(tStart) != lastTypeChar){
+                return false;
+            }
+            ++tStart;
         }
         return true;
     }

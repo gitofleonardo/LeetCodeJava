@@ -19,6 +19,8 @@
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[316]去除重复字母.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[29]两数相除.java" />
       <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[922]按奇偶排序数组 II.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[41]缺失的第一个正数.java" />
+      <file url="file://$PROJECT_DIR$/src/cn/huangchengxi/leetcode/java/leetcode/editor/cn/[897]递增顺序搜索树.java" />
     </excludeFromCompile>
   </component>
 </project>
